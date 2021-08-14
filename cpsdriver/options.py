@@ -1,6 +1,6 @@
 
 TOKEN="9e8864c9-ece9-4d6b-9aad-eea944ce371e"
-DB_ADDRESS="mongodb+srv://cpsweek:Rn6ubiLFhiIIriTq@team5-aifi-comp-hxuhd.mongodb.net"
+DB_ADDRESS="mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false"
 API_ADDRESS="http://aifi.io/cpsweek/api/v1"
 COMMAND="BASELINE-1"
 #COMMAND="cps-test-01"

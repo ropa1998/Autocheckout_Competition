@@ -1,0 +1,10 @@
+numpy
+pandas
+opencv-python
+tensorflow==1.15
+torch
+torchvision
+pymongo
+setproctitle
+scipy
+pyyaml
