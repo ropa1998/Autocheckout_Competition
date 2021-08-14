@@ -41,6 +41,18 @@ For the pick up, the system add the corresponding number of recognized item to t
 For the return, the system searches the customer's current list and subtract the items.
 
 
+## Prerequisites
+
+- Install Conda
+- Import env `conda env create -f environment.yml`
+- `conda activate Autocheckout_Competition`
+
+## Updated env
+
+Use this command if you change anything from the environment.yml
+
+`conda env update --prefix ./env --file environment.yml  --prune`
+
 ## Getting Started
 Please download the visual model on [Google Drive](https://drive.google.com/open?id=1kJw_B1M2PO5CkcupF3VQv6boktj29i7u), and put it into the 'cpsdrive' folder and then execute the following command.
 ```Bash
